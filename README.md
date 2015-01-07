@@ -1,2 +1,3 @@
 # dockerfile_chruby
-chruby Dockerfile
+
+chruby Dockerfile and starts an empty tmux session
