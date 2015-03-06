@@ -4,4 +4,4 @@
 source /etc/profile
 source /usr/local/share/chruby/chruby.sh
 
-ruby-install ruby 2.2.0
+ruby-install ruby
